@@ -165,9 +165,9 @@
                         <outlet property="partySizeLabel" destination="Tnn-24-EWt" id="Yzq-WC-WLc"/>
                         <outlet property="partySizeStepper" destination="fuH-oW-OcA" id="MZk-EE-iMw"/>
                         <outlet property="rateLabel" destination="bGp-RA-aY2" id="uoB-O3-Yfz"/>
-                        <outlet property="rateSlider" destination="Z6P-y8-Cht" id="HBf-lU-gQ5"/>
                         <outlet property="tipAmountLabel" destination="uPN-yw-dhN" id="o7y-z6-hKw"/>
                         <outlet property="tipControl" destination="0L4-qi-Yhh" id="Te9-Bd-yl1"/>
+                        <outlet property="tipSlider" destination="Z6P-y8-Cht" id="YFy-u0-K8u"/>
                         <outlet property="totalLabel" destination="FPC-Py-XY8" id="xkz-mw-gxn"/>
                     </connections>
                 </viewController>
