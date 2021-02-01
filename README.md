@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tipsy*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tipsy** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Nicholas Palermo**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -22,7 +22,11 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ ] Implemented a bill splitting feature via a stepper that allows user to choose size of party and subsequently splits the bill by that many people.
+- [ ] Implemented a Slider to increase functionality by expanding user options by way of allowing the user to choose their own tip percentages.
+- [ ] Created a rate label to depict the current tip rate chosen via both segmented control and/or slider.
+- [ ] Created a dedicated calculate button.
+- [ ] Utilized colors that will adapt for Dark Mode compatability via system preferences.
 
 ## Video Walkthrough
 
