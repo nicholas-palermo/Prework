@@ -10,8 +10,8 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -22,11 +22,11 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] Implemented a bill splitting feature via a stepper that allows user to choose size of party and subsequently splits the bill by that many people.
-- [ ] Implemented a Slider to increase functionality by expanding user options by way of allowing the user to choose their own tip percentages.
-- [ ] Created a rate label to depict the current tip rate chosen via both segmented control and/or slider.
-- [ ] Created a dedicated calculate button.
-- [ ] Utilized colors that will adapt for Dark Mode compatability via system preferences.
+- [x] Implemented a bill splitting feature via a stepper that allows user to choose size of party and subsequently splits the bill by that many people.
+- [x] Implemented a Slider to increase functionality by expanding user options by way of allowing the user to choose their own tip percentages.
+- [x] Created a rate label to depict the current tip rate chosen via both segmented control and/or slider.
+- [x] Created a dedicated calculate button.
+- [x] Utilized colors that will adapt for Dark Mode compatability via system preferences.
 
 ## Video Walkthrough
 
