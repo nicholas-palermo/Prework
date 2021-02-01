@@ -35,7 +35,7 @@ class ViewController: UIViewController {
     }
     
     //action uses tipControl to manipulate rateLabel and tip rate
-    @IBAction func tipRateSelectionWithSegementedControl(_ sender: Any) {
+    @IBAction func tipRateSelectionWithSegmentedControl(_ sender: Any) {
         let tipPercentages = [0.15, 0.18, 0.20]                             //creates a constant array for the set of predetermined tip percentages decimal conversions
         let rate = tipPercentages[tipControl.selectedSegmentIndex]          //creates a constant for rate selected by segmented control
         tipSlider.value = Float(rate)                                       //sets the tipSlider to the rate chosen by segmented control

@@ -82,7 +82,7 @@
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <color key="selectedSegmentTintColor" red="0.22437506105251503" green="0.80517777831067983" blue="0.57930320200855956" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <connections>
-                                    <action selector="tipRateSelection:" destination="BYZ-38-t0r" eventType="valueChanged" id="q6x-5A-FK3"/>
+                                    <action selector="tipRateSelectionWithSegmentedControl:" destination="BYZ-38-t0r" eventType="valueChanged" id="znr-An-cvO"/>
                                 </connections>
                             </segmentedControl>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Tip Calculator" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LOp-i8-FEv">
